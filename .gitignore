@@ -1,0 +1,57 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore virtual environment directories
+venv/
+env/
+*.env/
+pip-selfcheck.json
+
+# Ignore database files
+*.db
+*.sqlite
+
+# Ignore logs
+*.log
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore local development settings
+*.localsettings
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore Docker related files
+.dockerignore
+.docker/
+docker-compose.override.yml
+
+# Ignore npm/yarn lock files
+package-lock.json
+yarn.lock
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore frontend build directories
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+
+# Ignore backend build directories
+backend/__pycache__/
+backend/build/
+backend/dist/
