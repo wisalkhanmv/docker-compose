@@ -2,7 +2,7 @@
 __pycache__/
 *.pyc
 
-database/diagnostic.database
+database/diagnostic.data
 *.wt
 
 # Ignore environment files
