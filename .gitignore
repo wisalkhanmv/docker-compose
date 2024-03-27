@@ -2,6 +2,9 @@
 __pycache__/
 *.pyc
 
+database/diagnostic.database
+*.wt
+
 # Ignore environment files
 .env
 
