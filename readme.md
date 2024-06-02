@@ -1,4 +1,4 @@
-# MLOps Task 5 - Muhammad Wisal (20I-0697)
+# MLOps (Docker-Compose)
 
 ## Overview
 This task involves containerizing a web application using Docker Compose and implementing multiple modules within the application.
